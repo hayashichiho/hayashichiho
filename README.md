@@ -13,20 +13,19 @@
 ---
 
 ### 使用言語
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css, sql" /> <br />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,sql" /> <br />
 
 ### フレームワーク・ライブラリ
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,flask, fastapi, expo, sqlalchemy, librosa, flutter" />  <br />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,flask,fastapi,expo,sqlalchemy,librosa,flutter" />  <br />
 
 ### データベース
-<img src="https://skillicons.dev/icons?i=supabase, postgres" /> <br />
+<img src="https://skillicons.dev/icons?i=supabase,postgres" /> <br />
 
 ### 開発ツール
-<img src="https://skillicons.dev/icons?i=github,docker, terraform" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=github,docker,terraform" /> <br /><br />
 
 ### インフラ・クラウド
 <img src="https://skillicons.dev/icons?i=gcp,firebase" /> <br />
-
 
 ---
 
