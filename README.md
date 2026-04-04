@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,sql" /> <br />
 
 ### フレームワーク・ライブラリ
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,flask,fastapi,expo,sqlalchemy,librosa,flutter" />  <br />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,flask,fastapi,flutter" />  <br />
 
 ### データベース
 <img src="https://skillicons.dev/icons?i=supabase,postgres" /> <br />
