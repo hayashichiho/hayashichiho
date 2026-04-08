@@ -1,31 +1,21 @@
 ## 自己紹介
 
 - 大学院1年
-- 研究テーマ：「拡張現実型聴診訓練システム」
-
----
-
-## 活動
-
-- 研究活動・学会発表
-- GitHubでプログラム公開
+- 研究テーマ：「拡張現実型聴診訓練システム EARS」
 
 ---
 
 ### 使用言語
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,sql" /> <br />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,sql" />
 
 ### フレームワーク・ライブラリ
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,flask,fastapi,flutter" />  <br />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,nodejs,flask,fastapi" />
 
 ### データベース
-<img src="https://skillicons.dev/icons?i=supabase,postgres" /> <br />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
 
-### 開発ツール
-<img src="https://skillicons.dev/icons?i=github,docker,terraform" /> <br /><br />
-
-### インフラ・クラウド
-<img src="https://skillicons.dev/icons?i=gcp,firebase" /> <br />
+### インフラ・ツール
+<img src="https://skillicons.dev/icons?i=docker,github,vercel,figma,notion,npm" />
 
 ---
 
