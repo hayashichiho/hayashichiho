@@ -6,7 +6,7 @@
 ---
 
 ### 使用言語
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,typescript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,typescript,html,css,sql" />
 
 ### フレームワーク・ライブラリ
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,nodejs,flask,fastapi" />
