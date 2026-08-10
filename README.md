@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
 
-<img src="https://skillicons.dev/icons?i=docker,github,vercel,cloudflare,figma,notion,npm" />
+<img src="https://skillicons.dev/icons?i=docker,github,vercel,figma,notion,npm" />
 
 ---
 
