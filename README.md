@@ -16,7 +16,7 @@
 
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,react,nextjs,nodejs,flask,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite" />
 
 <img src="https://skillicons.dev/icons?i=docker,github,vercel,figma,notion,npm" />
 
